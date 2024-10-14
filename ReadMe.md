@@ -2,5 +2,5 @@
 This repository contains the HTML & CSS files with our solution.
 
 ## Done by  :
-  Osama Anwar Alansari      202103778
+  Osama Anwar Alansari      202103778\n
   Mohammed Hussain Haouas   20194952
